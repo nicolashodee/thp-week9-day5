@@ -12,9 +12,16 @@
 
 → This project was created on May 29th 2020 during my training at The Hacking Project.
 
-## :computer:  What's in here ?
+## :computer:  So, what about Git ?
 
-→ Nothing and... nothing again : 
+RULE NUMBER ONE, <span style="color: red"> NEVER work directly on the master branch !!!</span>
+You should create your own or switch to the proper one before you start coding anything. Then you can push, and everyone will check if it's not stinky. 
+
+About Git commands, 
+
+git pull : 
 ```
-16h11 : well, there's something finally
+→ to update your local copy of the master branch. 
+git pull --all will update all your local branches. 
+
 ```
