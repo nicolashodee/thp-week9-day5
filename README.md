@@ -12,9 +12,11 @@
 
 → This project was created on May 29th 2020 during my training at The Hacking Project.
 
-## :computer:  What's in here ?
+## :computer:  So, what about Git ?
 
-→ Nothing and... nothing again : 
+git pull : 
 ```
+→ to update your local copy of the master branch. 
+git pull --all will update all your local branches. 
 
 ```
