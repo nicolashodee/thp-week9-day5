@@ -14,6 +14,11 @@
 
 ## :computer:  So, what about Git ?
 
+RULE NUMBER ONE, <span style="color: red"> NEVER work directly on the master branch !!!</span>
+You should create your own or switch to the proper one before you start coding anything. Then you can push, and everyone will check if it's not stinky. 
+
+About Git commands, 
+
 git pull : 
 ```
 → to update your local copy of the master branch. 
